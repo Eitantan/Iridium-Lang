@@ -20,10 +20,9 @@ note: every statement must end with a period
 
 ## Enviroment Variables
 ```
-advanced-mode = true. //sets advanced syntax to true. Includes Linux command support
+advanced-mode = true. //sets advanced syntax to true. Includes Linux command support and C-Like syntax
 graphics-mode = true. //sets the graphics_EngineOn internal variable to true
 
-cSyntax = true. //enables C-like syntax for Zoom
 
 ```
 ## Output:
