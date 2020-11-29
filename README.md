@@ -9,14 +9,11 @@ Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerfu
 - It's free
 - It's perfect for beginners and pros alike!
 - It's open-source under the GNU General Public License v3.0
+- Its written in the blazing fast language Rust
 
 
 # Syntax (unfinished)
 
-
-
-
-another note: every statement must end with a period
 
 note: every statement must end with a period
 
@@ -120,4 +117,3 @@ average = new dataset[].
 add 5 to average.
 end dataset.
 ```
-wow
