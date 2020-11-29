@@ -96,23 +96,27 @@ a =
 ## Data Structures
 ```
 // array 
-array = new array[].
+array = new array[]{
 array[0] = "hi".
-end array.
+}
+example = array[1].
 
 //dictionary
 
-hey = new Dictionary([5]).
+hey = new Dictionary([5]){
 add[0] "hey".
-end Dictionary.
+}
+example = hey[1]
 
 //list 
-list = new list.
+list = new list{
 add to list "wut".
-end list.
+}
+example = list[1]
 
 //dataset WARNING: ONLY USE FOR NUMBERS
-average = new dataset[].
+average = new dataset[]{
 add 5 to average.
-end dataset.
+}
+example = average[1].
 ```
