@@ -1,8 +1,8 @@
-# Z (Zoom) Programming Language
-## What is Zoom?
+# Iridium Programming Language
+## What is Iridium?
 Zoom is a Object-Oriented Programming Language Designed to be Simple and Powerful.
 
-## Whats special about zoom?
+## Whats special about Iridium?
 - Everything is included! No messing with packages!
 - It's fast.
 - It's powerful
